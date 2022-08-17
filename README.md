@@ -21,6 +21,6 @@
 
 ## Reference
 
-![Android Developer Official Course](https://developer.android.com/courses/android-basics-kotlin)
+[Android Developer Official Course](https://developer.android.com/courses/android-basics-kotlin)
 
 
