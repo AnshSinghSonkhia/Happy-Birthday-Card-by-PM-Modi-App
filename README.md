@@ -16,7 +16,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-![](https://img.shields.io/badge/-Android_Studio-informational?style=flat&logo=android-studio&logoColor=black&color=d81b60)
+![](https://img.shields.io/badge/-Android_Studio-darkred?style=flat&logo=android-studio&logoColor=white)
 
 
 ## Reference
